@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const myid = ['ID'];
+const myid = ['635933198035058700'];
 const prefix = ['$'];
 const client = new Discord.Client();
 const client2 = new Discord.Client();
@@ -184,8 +184,8 @@ client.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 1000; x++) {
+        message.channel.send(`**سبحان الله وبحمده **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -198,8 +198,8 @@ client2.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 1000; x++) {
+        message.channel.send(`**ولله الحمد **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -212,8 +212,8 @@ client3.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 1000; x++) {
+        message.channel.send(`**محمد رسول الله **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -226,8 +226,8 @@ client4.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 1000; x++) {
+        message.channel.send(`**لا اله الا الله **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -240,8 +240,8 @@ client5.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 1000; x++) {
+        message.channel.send(`**الله اكبر **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
@@ -254,8 +254,8 @@ client6.on('message', message => {
 if (message.content === prefix+'fast') {
       let count = 0;
       let ecount = 0;
-      for(let x = 0; x < 30000; x++) {
-        message.channel.send(`**??? ???? ??? ?? ??? **[ " ${x} " ]`)
+      for(let x = 0; x < 1000; x++) {
+        message.channel.send(`**الحمد لله **[ " ${x} " ]`)
           .then(m => {
             count++;
           })
